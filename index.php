@@ -1,3 +1,3 @@
 <?php
-  echo "<h1>Hola, ¡soy Mati!</h1>";
+  echo "<h1>Hola, soy Mati</h1>";
 ?>
